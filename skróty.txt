@@ -1,0 +1,4 @@
+7. 
+włączanie i wyłączanie zwijania tekstów to skrót  alt + z
+8.
+łączenie dwóch linii w jedną to skrót  ^ + j
